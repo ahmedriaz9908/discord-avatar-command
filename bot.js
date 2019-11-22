@@ -45,3 +45,5 @@ Client.on("message", async message => {
  
 
 })
+
+Client.login("token-here")
