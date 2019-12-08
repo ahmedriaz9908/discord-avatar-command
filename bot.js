@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const Client = new Discord.Client();
-const Prefix = "!"
+const prefix = "!"
 
 
 Client.on(`ready`, async function() {
